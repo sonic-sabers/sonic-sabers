@@ -3,13 +3,14 @@
 </h1>
 
 <p align="center">
-  AI Engineer • Fullstack Engineer • Backend-focused Builder • 2x Research Papers
+  AI Engineer • Fullstack Engineer • Conversational AI Agent Builder • 2x Research Papers
 </p>
 
 ## About Me
 
 - Software Developer with experience across product engineering and QA.
 - Previously worked at InstaService Inc, Bluelearn, and Avalon Meta.
+- Currently building at Cignara (YC P26), delivering AI solutions for enterprise and Fortune 500 use cases.
 - Built and shipped products in AI, edtech, and real-world ops workflows.
 - Building AI-first developer tooling including `tryexcavate` open-source package work.
 - Published 2 research papers in image segmentation and AI applications.
@@ -20,11 +21,14 @@
 - Building scalable web products with strong backend architecture.
 - Rapid prototyping with AI-first workflows.
 - Engineering production-ready LLM features, automation flows, and AI copilots.
+- Designing and deploying conversational AI agents for customer support, operations, and internal productivity.
 - Solving practical, real-world problems through software.
 
 ## Open Source
 
 - `tryexcavate`: Open-source package focused on practical AI workflow acceleration and developer productivity.
+- Quick start: `npx excavate`
+- Deep link: [tryexcavate.com](https://tryexcavate.com)
 - Interested in open-source collaboration around AI engineering, backend systems, and product tooling.
 
 ## Reach Me
@@ -86,4 +90,4 @@
 
 ## Keywords
 
-`AI Engineer` `Fullstack Developer` `Backend Engineer` `Node.js Developer` `Next.js Developer` `TypeScript` `LLM Apps` `Prompt Engineering` `RAG` `Automation` `SaaS` `Startup` `Open Source` `API Development` `System Design` `Product Engineering`
+`AI Engineer` `Conversational AI Agents` `LLM Engineer` `Fullstack Developer` `Backend Engineer` `Node.js Developer` `Next.js Developer` `TypeScript` `Prompt Engineering` `RAG` `Automation` `SaaS` `Startup` `YC P26` `Fortune 500` `Open Source` `API Development` `System Design` `Product Engineering`
