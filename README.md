@@ -8,12 +8,14 @@
 
 ## About Me
 
-- Software Developer with experience across product engineering and QA.
-- Previously worked at InstaService Inc, Bluelearn, and Avalon Meta.
 - Currently building at Cignara (YC P26), delivering AI solutions for enterprise and Fortune 500 use cases.
+- AI Engineer focused on conversational AI agents, LLM product workflows, and backend systems.
 - Built and shipped products in AI, edtech, and real-world ops workflows.
+- Scaled products from 0 to 12k+ DAU at InstaService and to 50k+ MAU at Wavelength.
 - Building AI-first developer tooling including `tryexcavate` open-source package work.
 - Published 2 research papers in image segmentation and AI applications.
+- Software Developer with experience across product engineering and QA.
+- Previously worked at InstaService Inc, Bluelearn, and Avalon Meta.
 - Open to impactful collaborations, app dev projects, and freelancing.
 
 ## Current Focus
